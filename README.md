@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/cswclui/HelloWorld/_apis/build/status/cswclui.MyCalc%20(1)?branchName=master)](https://dev.azure.com/cswclui/HelloWorld/_build/latest?definitionId=3?branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
