@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/cswclui/HelloWorld/_apis/build/status/cswclui.MyCalc%20(1)?branchName=master)](https://dev.azure.com/cswclui/HelloWorld/_build/latest?definitionId=3?branchName=master)
+[![Build Status](https://dev.azure.com/cswclui/HelloWorld/_apis/build/status/cswclui.MyCalc?branchName=master)](https://dev.azure.com/cswclui/HelloWorld/_build/latest?definitionId=4?branchName=master)
 
 Calculator.js: a node.js Demonstration Project
 ==============================================
